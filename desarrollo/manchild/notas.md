@@ -10,7 +10,16 @@
 - La relación con la madre es central. El padre, casi ausente.
 - La madre cambia mucho el tono de voz: chiquea la voz, etc.
 
+## Conflicto (19 de noviembre de 2026)
+- Desde muy joven hace un personaje infantil en la tele (referencia: Carlos Villagrán).
+- Quiere dejarlo: lo hace sentir estancado.
+- Pero es lo único que sabe hacer bien.
+- Su dilema de seguir o no con el personaje tiene que tener un paralelo en su familia nuclear.
+
 ## Logline
-- Quién: (pendiente)
-- Quiere: (pendiente)
-- Se lo impide: (pendiente)
+- Quién: actor que desde joven interpreta a un niño en la tele.
+- Quiere: dejar el personaje.
+- Se lo impide: es lo único que sabe hacer bien (y ¿su madre?).
+- Paralelo familiar: (pendiente)
+- Detonante: (pendiente)
+- Final: ¿crece o no puede? (pendiente)
