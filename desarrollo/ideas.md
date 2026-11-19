@@ -9,3 +9,13 @@ Lista inicial de Bernardo (19 de noviembre de 2026). Títulos provisionales.
 5. **Martian Manhunter**: tono serio, de detective, con la añoranza de su planeta. (Personaje de DC.)
 6. **Atom**: película del personaje. (Personaje de DC.)
 7. **Zombis en una unidad habitacional**: un edificio de esos fabulosos, llenos de gente y laberínticos. Casi todo en blanco y negro.
+
+## Elección (19 de noviembre de 2026)
+
+| Pregunta | Respuesta de Bernardo |
+|---|---|
+| ¿Cuál te emociona más? | Manchild |
+| ¿Cuál podrías terminar primero? | Manchild o alguna de los oficios |
+| ¿Cuál se filma con poco presupuesto? | Alguna de los oficios |
+
+**Proyecto elegido: Manchild.** Los oficios mágicos quedan como siguiente proyecto.
