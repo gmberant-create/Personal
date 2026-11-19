@@ -16,6 +16,10 @@
 - Pero es lo único que sabe hacer bien.
 - Su dilema de seguir o no con el personaje tiene que tener un paralelo en su familia nuclear.
 
+## Dualidad (clave, muy explícita)
+- En pantalla: niño travieso tipo Daniel el Travieso o Bart Simpson.
+- Fuera de cámara: voz grave, adicciones (tipo por decidir), problemas de adulto.
+
 ## Logline
 - Quién: actor que desde joven interpreta a un niño en la tele.
 - Quiere: dejar el personaje.
